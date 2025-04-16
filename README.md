@@ -75,9 +75,9 @@ Result: Near-ideal behavior with S21/S31 ≈ -3 dB and S41 ≪ -30 dB. Confirms 
 **Key Learnings**
 
 
-Transmission line behavior critically impacts system performance at high frequencies.
+- Transmission line behavior critically impacts system performance at high frequencies.
 
-Impedance matching is essential for minimizing reflections and maximizing energy transfer.
+- Impedance matching is essential for minimizing reflections and maximizing energy transfer.
 
-Simulation-based validation (S-parameters, field distributions) is a powerful design tool for RF systems.
+- Simulation-based validation (S-parameters, field distributions) is a powerful design tool for RF systems.
 
